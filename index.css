@@ -1,9 +1,10 @@
 body {
 	background-color: #2DBF5A;
 }
-div.texte {
+.texte {
 	top: 50%;
 	font-size: 50px;
 	bottom: 50%;
 	position: absolute;
+	left: 50%;
 }
