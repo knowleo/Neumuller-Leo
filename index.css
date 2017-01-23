@@ -2,6 +2,6 @@ body {
 	background-color: #2DBF5A;
 }
 p {
-	margin-top: 500px;
+	top: 500px;
 	font-size: 100px;
 }
